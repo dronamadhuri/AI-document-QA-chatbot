@@ -20,8 +20,10 @@ Copy code
 ## 📌 Features
 - Upload PDF
 - Extract text
-- Split into chunks
-- Embed using SentenceTransformer
-- Build FAISS vector DB
-- Query & generate answers using FLAN-T5
+
+## 📌 Contributions by
+- D.Drona Madhuri
+- P.Sreeja
+- K.ShivaSai
+- H.Ashmith
 
